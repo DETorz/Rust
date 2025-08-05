@@ -1,0 +1,6 @@
+[package]
+name = "Assignment2-Sol"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
