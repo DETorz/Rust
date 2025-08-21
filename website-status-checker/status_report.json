@@ -1,0 +1,302 @@
+[
+  {
+    "response_time": "115ms",
+    "status": "403",
+    "timestamp": "1755804544",
+    "url": "https://chatgpt.com"
+  },
+  {
+    "response_time": "127ms",
+    "status": "200",
+    "timestamp": "1755804544",
+    "url": "https://fandom.com"
+  },
+  {
+    "response_time": "138ms",
+    "status": "403",
+    "timestamp": "1755804544",
+    "url": "https://etsy.com"
+  },
+  {
+    "response_time": "137ms",
+    "status": "https://expired.badssl.com/: Connection Failed: tls connection init failed: invalid peer certificate: certificate expired: verification time 1755804544 (UNIX), but certificate is not valid after 1428883199 (326921345 seconds ago)",
+    "timestamp": "1755804544",
+    "url": "https://expired.badssl.com"
+  },
+  {
+    "response_time": "144ms",
+    "status": "403",
+    "timestamp": "1755804544",
+    "url": "https://reddit.com"
+  },
+  {
+    "response_time": "143ms",
+    "status": "403",
+    "timestamp": "1755804544",
+    "url": "https://indeed.com"
+  },
+  {
+    "response_time": "160ms",
+    "status": "https://unrealwebsite404.com/: Dns Failed: resolve dns name 'unrealwebsite404.com:443': failed to lookup address information: Name or service not known",
+    "timestamp": "1755804544",
+    "url": "https://unrealwebsite404.com"
+  },
+  {
+    "response_time": "166ms",
+    "status": "200",
+    "timestamp": "1755804544",
+    "url": "https://nytimes.com"
+  },
+  {
+    "response_time": "165ms",
+    "status": "200",
+    "timestamp": "1755804544",
+    "url": "https://duckduckgo.com"
+  },
+  {
+    "response_time": "169ms",
+    "status": "200",
+    "timestamp": "1755804544",
+    "url": "https://twitch.tv"
+  },
+  {
+    "response_time": "172ms",
+    "status": "200",
+    "timestamp": "1755804544",
+    "url": "https://msn.com"
+  },
+  {
+    "response_time": "180ms",
+    "status": "200",
+    "timestamp": "1755804544",
+    "url": "https://weather.com"
+  },
+  {
+    "response_time": "179ms",
+    "status": "200",
+    "timestamp": "1755804544",
+    "url": "https://espn.com"
+  },
+  {
+    "response_time": "179ms",
+    "status": "200",
+    "timestamp": "1755804544",
+    "url": "https://discord.com"
+  },
+  {
+    "response_time": "190ms",
+    "status": "200",
+    "timestamp": "1755804544",
+    "url": "https://x.com"
+  },
+  {
+    "response_time": "192ms",
+    "status": "200",
+    "timestamp": "1755804544",
+    "url": "https://cnn.com"
+  },
+  {
+    "response_time": "204ms",
+    "status": "200",
+    "timestamp": "1755804544",
+    "url": "https://wikipedia.org"
+  },
+  {
+    "response_time": "205ms",
+    "status": "200",
+    "timestamp": "1755804544",
+    "url": "https://office.com"
+  },
+  {
+    "response_time": "230ms",
+    "status": "200",
+    "timestamp": "1755804544",
+    "url": "https://bing.com"
+  },
+  {
+    "response_time": "232ms",
+    "status": "200",
+    "timestamp": "1755804544",
+    "url": "https://foxnews.com"
+  },
+  {
+    "response_time": "237ms",
+    "status": "200",
+    "timestamp": "1755804544",
+    "url": "https://walmart.com"
+  },
+  {
+    "response_time": "238ms",
+    "status": "200",
+    "timestamp": "1755804544",
+    "url": "https://roblox.com"
+  },
+  {
+    "response_time": "239ms",
+    "status": "200",
+    "timestamp": "1755804544",
+    "url": "https://pinterest.com"
+  },
+  {
+    "response_time": "245ms",
+    "status": "200",
+    "timestamp": "1755804544",
+    "url": "https://chase.com"
+  },
+  {
+    "response_time": "257ms",
+    "status": "200",
+    "timestamp": "1755804544",
+    "url": "https://minecraft.net/en-us"
+  },
+  {
+    "response_time": "287ms",
+    "status": "200",
+    "timestamp": "1755804544",
+    "url": "https://google.com"
+  },
+  {
+    "response_time": "286ms",
+    "status": "403",
+    "timestamp": "1755804544",
+    "url": "https://zillow.com"
+  },
+  {
+    "response_time": "283ms",
+    "status": "200",
+    "timestamp": "1755804544",
+    "url": "http://kick.com"
+  },
+  {
+    "response_time": "306ms",
+    "status": "200",
+    "timestamp": "1755804545",
+    "url": "https://facebook.com"
+  },
+  {
+    "response_time": "331ms",
+    "status": "https://sharepoint.com/: Too Many Redirects: reached max redirects (5)",
+    "timestamp": "1755804545",
+    "url": "https://sharepoint.com"
+  },
+  {
+    "response_time": "336ms",
+    "status": "200",
+    "timestamp": "1755804545",
+    "url": "https://amazon.com"
+  },
+  {
+    "response_time": "338ms",
+    "status": "200",
+    "timestamp": "1755804545",
+    "url": "https://ebay.com"
+  },
+  {
+    "response_time": "340ms",
+    "status": "200",
+    "timestamp": "1755804545",
+    "url": "https://usps.com"
+  },
+  {
+    "response_time": "402ms",
+    "status": "200",
+    "timestamp": "1755804545",
+    "url": "https://youtube.com"
+  },
+  {
+    "response_time": "403ms",
+    "status": "200",
+    "timestamp": "1755804545",
+    "url": "https://zoom.us"
+  },
+  {
+    "response_time": "411ms",
+    "status": "200",
+    "timestamp": "1755804545",
+    "url": "https://temu.com"
+  },
+  {
+    "response_time": "413ms",
+    "status": "200",
+    "timestamp": "1755804545",
+    "url": "https://live.com"
+  },
+  {
+    "response_time": "412ms",
+    "status": "200",
+    "timestamp": "1755804545",
+    "url": "http://chess.com"
+  },
+  {
+    "response_time": "463ms",
+    "status": "200",
+    "timestamp": "1755804545",
+    "url": "https://yahoo.com"
+  },
+  {
+    "response_time": "471ms",
+    "status": "200",
+    "timestamp": "1755804545",
+    "url": "https://microsoft.com"
+  },
+  {
+    "response_time": "481ms",
+    "status": "200",
+    "timestamp": "1755804545",
+    "url": "https://instagram.com"
+  },
+  {
+    "response_time": "517ms",
+    "status": "200",
+    "timestamp": "1755804545",
+    "url": "https://paypal.com"
+  },
+  {
+    "response_time": "657ms",
+    "status": "200",
+    "timestamp": "1755804545",
+    "url": "https://target.com"
+  },
+  {
+    "response_time": "704ms",
+    "status": "200",
+    "timestamp": "1755804545",
+    "url": "https://quora.com"
+  },
+  {
+    "response_time": "747ms",
+    "status": "200",
+    "timestamp": "1755804545",
+    "url": "https://netflix.com"
+  },
+  {
+    "response_time": "860ms",
+    "status": "200",
+    "timestamp": "1755804545",
+    "url": "https://tiktok.com"
+  },
+  {
+    "response_time": "860ms",
+    "status": "200",
+    "timestamp": "1755804545",
+    "url": "https://aol.com"
+  },
+  {
+    "response_time": "894ms",
+    "status": "200",
+    "timestamp": "1755804545",
+    "url": "https://imdb.com"
+  },
+  {
+    "response_time": "2225ms",
+    "status": "200",
+    "timestamp": "1755804546",
+    "url": "http://brightspace.utrgv.edu"
+  },
+  {
+    "response_time": "5686ms",
+    "status": "Timed out",
+    "timestamp": "1755804550",
+    "url": "https://homedepot.com"
+  }
+]
